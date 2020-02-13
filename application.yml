@@ -9,10 +9,10 @@ spring:
        application:
               name：microstarcloud-config-dev
 	      
- ---
+---
 
  spring:
-   profile: dev   # 测试环境
+   profile: test   # 测试环境
        application:
               name：microstarcloud-config-test
 
