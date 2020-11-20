@@ -1,14 +1,13 @@
 spring:
    profile:
        active:
-         - dev
+         - test
 ---
 
 spring:
    profile: dev   # 开发环境
        application:
-              name：microstarcloud-config-dev
-	      
+              name：microstarcloud-config-dev	      
 ---
 
  spring:
