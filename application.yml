@@ -4,11 +4,11 @@ spring:
        - dev
 ---
 spring:
-   profile: dev   # 开发环境
+   profiles: dev   # 开发环境
    application:
             name: microstarcloud-config-dev
 ---
 spring:
-   profile: test   # 开发环境
+   profiles: test   # 开发环境
    application:
             name: microstarcloud-config-test
