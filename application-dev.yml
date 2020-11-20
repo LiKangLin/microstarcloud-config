@@ -4,7 +4,7 @@ spring:
             name: microstarcloud-config-dev
    company: shopee.dev.com    
 
-Env: env_dev
+Env: dev_dev
 server:
    port: 9600
    
