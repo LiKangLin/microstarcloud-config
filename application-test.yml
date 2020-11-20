@@ -2,4 +2,4 @@ spring:
    profile: test   # 开发环境
    application:
             name: microstarcloud-config-test
-            company: shopee.test.com 
+   company: shopee.test.com 
