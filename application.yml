@@ -1,18 +1,6 @@
 spring:
-   profile:
-       active:
-         - test
----
-
-spring:
    profile: dev   # 开发环境
        application:
               name: microstarcloud-config-dev	      
----
-spring:
-   profile: test   # 测试环境
-       application:
-              name: microstarcloud-config-test
 
-#请保存为UTF-8格式
 
