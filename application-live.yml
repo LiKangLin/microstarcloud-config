@@ -2,4 +2,4 @@ spring:
    profile: live   # 开发环境
    application:
             name: microstarcloud-config-live
-            company: shopee.live.com 
+   company: shopee.live.com 
