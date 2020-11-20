@@ -2,4 +2,8 @@ spring:
    profile: dev   # 开发环境
    application:
             name: microstarcloud-config-dev
-   company: shopee.dev.com         
+   company: shopee.dev.com    
+   
+server:
+   port: 9600
+   
