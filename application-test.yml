@@ -3,7 +3,8 @@ spring:
    application:
             name: microstarcloud-config-test
    company: shopee.test.com 
-   
+  
+Env: master_test  
 server:
    port: 9602   
    
