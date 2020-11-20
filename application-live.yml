@@ -5,5 +5,5 @@ spring:
    company: shopee.live.com 
    
 server:
-   port: 9600   
+   port: 9601
    
