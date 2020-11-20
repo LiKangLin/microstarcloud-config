@@ -3,7 +3,8 @@ spring:
    application:
             name: microstarcloud-config-live
    company: shopee.live.com 
-   
+
+Env: master_live
 server:
    port: 9601
    
