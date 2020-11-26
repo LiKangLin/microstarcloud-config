@@ -1,5 +1,5 @@
 spring:
-   profile: dev   # 开发环境
+   profile: dev   # dev分支下的dev环境
    application:
             name: microstarcloud-config-dev
    company: shopee.dev.com    
