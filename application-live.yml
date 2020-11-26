@@ -1,5 +1,5 @@
 spring:
-   profile: live   # 开发环境
+   profile: live   # master分支下的live环境
    application:
             name: microstarcloud-config-live
    company: shopee.live.com 
