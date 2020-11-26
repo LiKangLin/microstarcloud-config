@@ -1,5 +1,5 @@
 spring:
-   profile: test   # 开发环境
+   profile: test   # master分支下的test环境
    application:
             name: microstarcloud-config-test
    company: shopee.test.com 
